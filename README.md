@@ -11,14 +11,17 @@
 * **./index.ipynb** - The notebook containing our work.
 * **./notebooks** -  Folder containing individual notebooks of the group members
 * **./Group-3 Karu Phase 4 Project presentation.pptx** -  My presentation powerpoint file for this project.
-* **./Group-3 Karu Phase 4 Project presentation.pdf** -  My presentation PDF file for this project.
-*  **./Group-3 Karu Phase 4nb.pdf** - The index notebook in PDF format.
+*  **./index_p.pdf** - The index notebook in PDF format.
+*  **./index_p.HTML** - The index notebook in HTML format.
 *  **README.md** - The markdown for this project providing an overview of the project.
 *  **./data** - Folder containing our data source/s
 *  **./data/**.csv** - CSV files of the data we are working with
 *  **./data/generated/**.csv** - CSV files of the data we have generated during data understanding and preparation
 *  **./models/** - Where our models will be saved
-*  
+*  **./visualizations/** -  Charts we have created in tableau
+  
+## **iii. Visualizations**
+They can be found in the following link -> *https://public.tableau.com/authoring/PHASE4PROJECTVISUALIZATIONS/PROJECTDASHBOARD#1*
 
 ## **1. Business Understanding**
 ### **1.1 Stakeholders**
